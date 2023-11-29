@@ -72,3 +72,6 @@ The project's findings indicate that logistic regression is an effective algorit
 
 This project successfully demonstrates the application of logistic regression in predicting the success of bank telemarketing campaigns. The developed model can be utilized by the banking institution to identify potential subscribers, optimize their telemarketing strategies, and enhance customer engagement. The project also highlights the importance of data analysis, feature engineering, and model evaluation in achieving robust and reliable predictive modeling.
 
+## Dataset source
+
+https://archive.ics.uci.edu/dataset/222/bank+marketing
