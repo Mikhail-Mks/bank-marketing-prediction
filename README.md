@@ -1,4 +1,4 @@
-# Predicting Bank Telemarketing Success with Logistic Regression
+# Bank Telemarketing Success Prediction with Logistic Regression
 
 This project aims to predict the success of bank telemarketing campaigns by analyzing a dataset of customer information and campaign history. The project employs logistic regression, a supervised machine learning algorithm, to build a predictive model that can identify potential subscribers to bank term deposits.
 
